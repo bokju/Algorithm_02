@@ -10,6 +10,7 @@
 
 # 2. Training with Training loss
 (1) 3 Layers with 1 Convolution layer
+![image](https://user-images.githubusercontent.com/80081345/121058050-e3a62500-c7fa-11eb-8fe6-a12110303665.png)
 
 (2) 5 Layers with 2 Convolution layer
 
