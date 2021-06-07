@@ -34,6 +34,7 @@
 
 ## 5. Images and corresponding probability that predicted Wrong
 ### (1) 3 Layers with 1 Convolution layer
+![image](https://user-images.githubusercontent.com/80081345/121059031-f2d9a280-c7fb-11eb-8d93-7b6278bbafca.png)
 
 ### (2) 5 Layers with 2 Convolution layer
 
