@@ -44,6 +44,7 @@
 ![image](https://user-images.githubusercontent.com/80081345/121059790-d5f19f00-c7fc-11eb-91b6-8d04667a92b2.png)
 
 ### (3) 7 Layers with 4 Convolution layer
+![image](https://user-images.githubusercontent.com/80081345/121061856-5ca77b80-c7ff-11eb-8f85-488f9b529642.png)
 
 
 
